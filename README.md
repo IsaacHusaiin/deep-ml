@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-30 | [solution](problems/1107-count-rows-per-group) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-27 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-28 | [solution](problems/1103-filter-rows-with-where) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-23 | [solution](problems/0015-linear-regression-using-gradient-descent) |
