@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:25:42.672Z",
+  "generated_at": "2026-10-21T21:52:05.295Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -413,7 +413,7 @@
       "url": "https://www.deep-ml.com/problems/27",
       "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
       "first_solved_at": "2026-10-18T19:25:42.086Z",
-      "last_pushed_at": "2026-10-18T19:25:42.086Z",
+      "last_pushed_at": "2026-10-21T21:52:04.634Z",
       "language": "python",
       "lines": 7
     }
