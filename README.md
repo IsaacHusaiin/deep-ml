@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-10-01 | [solution](problems/1108-average-per-group) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-13 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-01 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-09-30 | [solution](problems/1107-count-rows-per-group) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-09 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-27 | [solution](problems/0016-feature-scaling-implementation) |
